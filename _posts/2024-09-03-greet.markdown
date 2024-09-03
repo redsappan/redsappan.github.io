@@ -5,7 +5,7 @@ date:   2024-09-03 16:00:00 +0900
 categories: jekyll update
 ---
 
-### Hi there 👋
+### Hi there! 👋
 
 
 **I'm currently learning programming on C++**    
