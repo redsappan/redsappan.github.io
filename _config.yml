@@ -20,7 +20,7 @@
 
 title: My Pages
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
   My Profile Site.
   someday want to announcement my work this site.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
