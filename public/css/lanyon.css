@@ -41,12 +41,12 @@ body {
 }
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Meiryo, Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 200;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -312,10 +312,12 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
+  font-weight: 400;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  font-weight: 400;
 }
 
 /* Meta data line below post title */
@@ -324,6 +326,7 @@ a.sidebar-nav-item:focus {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-size: medium;
 }
 
 /* Related posts */

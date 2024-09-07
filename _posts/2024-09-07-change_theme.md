@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ページ全体の一新"
+title: "Changed Use Jekyll Theme"
 date:   2024-09-07 21:40:00 +0900
 categories: post jekyll-theme
 ---
