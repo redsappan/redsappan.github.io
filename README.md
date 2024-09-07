@@ -1,4 +1,1 @@
-## redsappan.github.io
-
-My Pages Repository
-Create by Jekyll
+## "Use Jekyll Theme Based on "Lanyon" 
