@@ -41,7 +41,7 @@ body {
 }
 
 html {
-  font-family: "Zen Maru Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Outfit, "Zen Maru Gothic", Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Outfit, Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -311,7 +311,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #ac4142;
   font-weight: 400;
 }
 .page-title,
@@ -366,7 +366,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Outfit, Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }

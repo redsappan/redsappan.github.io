@@ -8,5 +8,5 @@ categories: jekyll update
 ### Hi there! 👋
 
 
-**I'm currently learning programming on C++**    
-**In the future I would like to create various with C++🍁**
+*I'm currently learning programming on C++*    
+*In the future I would like to create various with C++🍁*
