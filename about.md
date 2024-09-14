@@ -4,7 +4,7 @@ title: About
 ---
 My Profile site🍁  
 someday want to announcement my work this site.  
-Use jekyll theme customize based on "Lanyon".  
+Using jekyll theme customized based on “Lanyon”.  
 
 [Lanyon_Github](https://github.com/poole/lanyon)
 
