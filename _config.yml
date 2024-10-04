@@ -6,7 +6,7 @@ url:
 baseurl:             ''
 paginate:            5
 # permalink:           pretty
-excerpt_separator: '\n'
+exerpt_separator: '\n'
 show_excerpts: true
 # About/contact
 author:
