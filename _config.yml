@@ -6,7 +6,8 @@ url:
 baseurl:             ''
 paginate:            5
 # permalink:           pretty
-
+exerpt_separator: '\n'
+show_excerpts: true
 # About/contact
 author:
   name:              redsappan
