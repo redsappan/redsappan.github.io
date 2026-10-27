@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "久しぶりに"  
+title:  "久しぶりに" 
+date:
 categories: jekyll update
 ---
 丸二年、放置していた上に技術的なことを習得するのを諦めて置物と化していたけれど
