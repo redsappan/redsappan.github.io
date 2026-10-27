@@ -1,1 +1,1 @@
-## "Using jekyll theme customized based on “Lanyon”." 
+## "Using jekyll theme customized based on “Lanyon.”
