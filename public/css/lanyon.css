@@ -35,6 +35,7 @@
  */
 
 /* Prevent scroll on narrow devices */
+
 html,
 body {
   overflow-x: hidden;
@@ -45,8 +46,8 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Outfit, Helvetica, Arial, sans-serif;
-  font-weight: 200;
+  font-family: "Zen Maru Gothic",Outfit, Helvetica, Arial, sans-serif;
+  font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -318,6 +319,7 @@ a.sidebar-nav-item:focus {
 .post-title {
   margin-top: 0;
   font-weight: 400;
+  font-family:"Zen Maru Gothic";
 }
 
 /* Meta data line below post title */
@@ -327,6 +329,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   color: #9a9a9a;
   font-size: medium;
+  font-family: Outfit;
 }
 
 /* Related posts */
@@ -345,6 +348,7 @@ a.sidebar-nav-item:focus {
 .related-posts li small {
   font-size: 75%;
   color: #999;
+  font-family: Outfit;
 }
 .related-posts li a:hover {
   color: #268bd2;
